@@ -1,4 +1,4 @@
 <Bindings>
-	<Binding name="TOGGLE"  header="PALLYPOWER_HEADER">PallyPower_BarToggle();</Binding>
-        <Binding name="REPORT"  header="PALLYPOWER_HEADER">PallyPower_Report();</Binding>
+	<Binding name="TOGGLE"  header="PRIESTPOWER_HEADER">PriestPower_BarToggle();</Binding>
+        <Binding name="REPORT"  header="PRIESTPOWER_HEADER">PriestPower_Report();</Binding>
 </Bindings>
